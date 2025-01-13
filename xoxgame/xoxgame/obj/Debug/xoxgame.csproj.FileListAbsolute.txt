@@ -1,0 +1,10 @@
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\bin\Debug\xoxgame.exe.config
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\bin\Debug\xoxgame.exe
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\bin\Debug\xoxgame.pdb
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\obj\Debug\xoxgame.csprojAssemblyReference.cache
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\obj\Debug\xoxgame.Form1.resources
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\obj\Debug\xoxgame.Properties.Resources.resources
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\obj\Debug\xoxgame.csproj.GenerateResource.cache
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\obj\Debug\xoxgame.csproj.CoreCompileInputs.cache
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\obj\Debug\xoxgame.exe
+C:\Users\Pocan\source\repos\xoxgame\xoxgame\obj\Debug\xoxgame.pdb
